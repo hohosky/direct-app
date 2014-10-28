@@ -1,6 +1,8 @@
 <project name="Master build file for building components" basedir=".">
 
-    <property name="buildroot" value="../../build"/>
+    <property name="buildroot" value="../../build"/> 
+    
+     <property name="buildroot" value="../../build"/> 
 
     <property name="builddir" value="${buildroot}/${distfilename}"/>
 
